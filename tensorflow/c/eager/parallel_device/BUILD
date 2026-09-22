@@ -112,6 +112,16 @@ cc_library(
     ],
 )
 
+
+sldlbvkjsbd lkbclasblcbas clasbcljsa lsabcl 
+
+
+
+
+
+
+
+
 tf_cc_test(
     name = "parallel_device_lib_test",
     srcs = ["parallel_device_lib_test.cc"],
